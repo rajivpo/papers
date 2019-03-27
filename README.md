@@ -1,5 +1,9 @@
 # papers - a list of what I've read with occasional notes
 
+**March 27, 2018**
+
+[Pain: A Precision Signal for Reinforcement Learning and Control](https://www.sciencedirect.com/science/article/pii/S0896627319300820) by Ben Seymour (2019)
+
 **March 24, 2018**
 
 [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf) by Arora et al. (2019)
