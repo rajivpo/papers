@@ -1,6 +1,7 @@
 # papers - a list of what I've read with occasional notes
 
 **March 28, 2019**
+
 [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/) by Irving and Askell (2019)
 
 **March 27, 2019**
