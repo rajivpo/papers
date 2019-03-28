@@ -1,15 +1,18 @@
 # papers - a list of what I've read with occasional notes
 
-**March 27, 2018**
+**March 28, 2019**
+[AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/) by Irving and Askell (2019)
+
+**March 27, 2019**
 
 [Pain: A Precision Signal for Reinforcement Learning and Control](https://www.sciencedirect.com/science/article/pii/S0896627319300820) by Ben Seymour (2019)
 
 [Source of Increased Health Care Spending in the United States](https://jamanetwork.com/journals/jama/fullarticle/2728907) by Biener, Decker, and Rhode (2019)
 
-**March 24, 2018**
+**March 24, 2019**
 
 [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf) by Arora et al. (2019)
 
-**March 23, 2018**
+**March 23, 2019**
 
 [Characterizing HCI Research in China: Streams, Methodologies and Future Directions](https://arxiv.org/abs/1903.08915) by Bi et al. (2019)
