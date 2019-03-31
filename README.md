@@ -1,5 +1,10 @@
 # papers - a list of what I've read with occasional notes
 
+**March 30, 2019**
+
+[What must a global theory of cortex explain?](https://people.seas.harvard.edu/~valiant/Current%20Opinion%20Neurobiology%202014.pdf) by Valiant (2014)
+
+
 **March 28, 2019**
 
 [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/) by Irving and Askell (2019)
