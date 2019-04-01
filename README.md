@@ -1,5 +1,9 @@
 # papers - a list of what I've read with occasional notes
 
+**March 31, 2019**
+[The entorhinal cognitive map is attracted to goals](http://science.sciencemag.org/content/363/6434/1443) by Boccara et al. (2019)
+
+
 **March 30, 2019**
 
 [What must a global theory of cortex explain?](https://people.seas.harvard.edu/~valiant/Current%20Opinion%20Neurobiology%202014.pdf) by Valiant (2014)
