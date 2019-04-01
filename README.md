@@ -2,6 +2,8 @@
 
 **April 1, 2019**
 
+[Machine-Learning-Assisted Directed Protein Evolution with Combinatorial Libraries](https://arxiv.org/abs/1902.07231) by Wu et al. (Frances Arnold's Group) (2019)
+
 [Deep-learning augmented RNA-seq analysis of transcript splicing](https://www.nature.com/articles/s41592-019-0351-9) by Zhang et al. (2019)
 
 
