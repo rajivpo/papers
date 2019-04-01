@@ -1,8 +1,8 @@
 # papers - a list of what I've read with occasional notes
 
 **April 1, 2019**
-[
-Deep-learning augmented RNA-seq analysis of transcript splicing](https://www.nature.com/articles/s41592-019-0351-9) by Zhang et al. (2019)
+
+[Deep-learning augmented RNA-seq analysis of transcript splicing](https://www.nature.com/articles/s41592-019-0351-9) by Zhang et al. (2019)
 
 
 **March 31, 2019**
