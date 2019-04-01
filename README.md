@@ -1,6 +1,7 @@
 # papers - a list of what I've read with occasional notes
 
 **March 31, 2019**
+
 [The entorhinal cognitive map is attracted to goals](http://science.sciencemag.org/content/363/6434/1443) by Boccara et al. (2019)
 
 
