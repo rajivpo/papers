@@ -2,6 +2,8 @@
 
 **April 2, 2019**
 
+[Higher Dose of Tofacitinib for Rheumatoid Arthritis Poses Risks](https://jamanetwork.com/journals/jama/fullarticle/2729352) by Voelker (2019)
+
 [Development and Validation of an Electronic Health Record–Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695078) by Wong et al. (2018)
 
 
