@@ -2,6 +2,11 @@
 
 **April 2, 2019**
 
+[Mind over milkshakes: mindsets, not just nutrients, determine ghrelin response](http://content.apa.org/journals/hea/30/4/424) by Crum et al. (2011)
+ - Patients were given misleading caloric information for milkshakes, and interestingly, ghrelin levels post-consumption were consistent with perceived caloric intake
+ - ghrelin is the "hunger hormone" that is secreted when the stomach is empty
+ - tldr: "mindset meaningfully affects physiological responses to food"
+
 [Higher Dose of Tofacitinib for Rheumatoid Arthritis Poses Risks](https://jamanetwork.com/journals/jama/fullarticle/2729352) by Voelker (2019)
 
 [Development and Validation of an Electronic Health Record–Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695078) by Wong et al. (2018)
