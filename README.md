@@ -2,6 +2,8 @@
 
 **April 2, 2019**
 
+[Relevant Word Order Vectorization for Improved Natural Language Processing in Electronic Healthcare Records](https://arxiv.org/pdf/1812.02627v1.pdf) by Thompson et al. (2018)
+
 [Mind over milkshakes: mindsets, not just nutrients, determine ghrelin response](http://content.apa.org/journals/hea/30/4/424) by Crum et al. (2011)
  - Patients were given misleading caloric information for milkshakes, and interestingly, ghrelin levels post-consumption were consistent with perceived caloric intake
  - ghrelin is the "hunger hormone" that is secreted when the stomach is empty
