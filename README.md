@@ -1,5 +1,10 @@
 # papers - a list of what I've read with occasional notes
 
+**April 2, 2019**
+
+[Development and Validation of an Electronic Health Record–Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695078) by Wong et al. (2018)
+
+
 **April 1, 2019**
 
 :star: [Machine-Learning-Assisted Directed Protein Evolution with Combinatorial Libraries](https://arxiv.org/abs/1902.07231) by Wu et al. (Frances Arnold's Group) (2019)
