@@ -1,5 +1,10 @@
 # papers - a list of what I've read with occasional notes
 
+**April 3, 2019**
+
+[Proof of concept continuous event logging in living cells](https://www.biorxiv.org/content/biorxiv/early/2019/03/29/225151.full.pdf) by Shur and Murray (2019)
+
+
 **April 2, 2019**
 
 [Relevant Word Order Vectorization for Improved Natural Language Processing in Electronic Healthcare Records](https://arxiv.org/pdf/1812.02627v1.pdf) by Thompson et al. (2018)
