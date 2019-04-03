@@ -2,6 +2,8 @@
 
 **April 3, 2019**
 
+[A Deep Learning Architecture for De-identification of Patient Notes: Implementation and Evaluation](https://arxiv.org/pdf/1810.01570.pdf) by Khin, Burckhardt, and Padman (2018)
+
 [Proof of concept continuous event logging in living cells](https://www.biorxiv.org/content/biorxiv/early/2019/03/29/225151.full.pdf) by Shur and Murray (2019)
 
 
