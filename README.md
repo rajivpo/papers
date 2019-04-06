@@ -1,5 +1,9 @@
 # papers - a list of what I've read with occasional notes
 
+**April 5, 2019**
+
+:star:[Scalable and accurate deep learning with electronic health records](https://www.nature.com/articles/s41746-018-0029-1) by Rajkomar, et al. (2018)
+
 **April 3, 2019**
 
 [A Deep Learning Architecture for De-identification of Patient Notes: Implementation and Evaluation](https://arxiv.org/pdf/1810.01570.pdf) by Khin, Burckhardt, and Padman (2018)
