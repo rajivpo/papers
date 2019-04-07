@@ -1,5 +1,9 @@
 # papers - a list of what I've read with occasional notes
 
+**April 6, 2019**
+
+[The challenge of antimicrobial resistance: What economics can contribute (http://science.sciencemag.org/content/364/6435/eaau4679) by Roope et al. (2019)
+
 **April 5, 2019**
 
 :star:[Scalable and accurate deep learning with electronic health records](https://www.nature.com/articles/s41746-018-0029-1) by Rajkomar, et al. (2018)
