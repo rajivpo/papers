@@ -1,5 +1,9 @@
 # papers - a list of what I've read with occasional notes
 
+**April 8, 2019**
+[In defense of the black box](http://science.sciencemag.org/content/364/6435/26) by Elizabeth A. Holm (2019)
+ - Argues for black box usage when cost of wrong answer is low, yields best results, or enables inquiry and discovery
+
 **April 6, 2019**
 
 [The challenge of antimicrobial resistance: What economics can contribute](http://science.sciencemag.org/content/364/6435/eaau4679) by Roope et al. (2019)
