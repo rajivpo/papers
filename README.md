@@ -3,7 +3,7 @@
 **April 8, 2019**
 
 [In defense of the black box](http://science.sciencemag.org/content/364/6435/26) by Elizabeth A. Holm (2019)
- - Argues for black box usage when cost of wrong answer is low, yields best results, or enables inquiry and discovery
+ - Argues for black box usage when cost of wrong answer is low, it yields best results, or it enables inquiry and discovery
 
 **April 6, 2019**
 
