@@ -2,6 +2,10 @@
 
 **April 15, 2019**
 
+[Why Physicians Should Trust in Patients](https://jamanetwork.com/journals/jama/fullarticle/2729345) by Grob, Darien, and Meyers (2019)
+- Physicians trusting patients leads to improved diagnoses, care satisfaction, and outcomes
+- How to demonstrate trust: be perceptive to non-verbals, becoming cognizant of implicit biases, shared decision-making, embracing their values
+
 :star: [Association of Patient Characteristics and Tumor Genomics With Clinical Outcomes Among Patients With Non–Small Cell Lung Cancer Using a Clinicogenomic Database
 ](https://jamanetwork.com/journals/jama/fullarticle/2730114) by Singal et al. (2019) 
 - Healthcare stakeholders may actually be williing to come together and build a multi-center clinicogenomic databse that yield novel insights
