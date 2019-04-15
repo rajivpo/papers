@@ -1,5 +1,16 @@
 # papers - a list of what I've read with occasional notes
 
+**April 15, 2019**
+
+:star: [Association of Patient Characteristics and Tumor Genomics With Clinical Outcomes Among Patients With Non–Small Cell Lung Cancer Using a Clinicogenomic Database
+](https://jamanetwork.com/journals/jama/fullarticle/2730114) by Singal et al. (2019) 
+- Healthcare stakeholders may actually be williing to come together and build a multi-center clinicogenomic databse that yield novel insights
+- Cohort selection done by first screening based on ICD-10 and then confirming with manual chart review
+- all data extraction done by manual reviewers (clinically trained nurses and tumor registrars)
+- limitations: patients that order a GCP test are usually advance stage. This point reminds me of analyses done using MIMIC, an anonymized critical care dataset (truly the sickest patients). There are definitely unique data-derived insights, it's just unclear if those insights generalize to healthier patient populations
+
+
+
 **April 8, 2019**
 
 [In defense of the black box](http://science.sciencemag.org/content/364/6435/26) by Elizabeth A. Holm (2019)
